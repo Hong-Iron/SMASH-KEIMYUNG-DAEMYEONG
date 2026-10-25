@@ -20,5 +20,66 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "아담스관": {
+      "style": "brick",
+      "wall": "#7a5444",
+      "glass": "#2c3236",
+      "frame": "#e8e6e0"
+    },
+    "본관": {
+      "style": "brick",
+      "wall": "#6a4a3c",
+      "glass": "#2a2e30",
+      "frame": "#ecebe6",
+      "hip": true,
+      "roof": "#3c4656"
+    },
+    "대명바우어관": {
+      "style": "brick",
+      "wall": "#7a5a48",
+      "glass": "#2e3438",
+      "frame": "#f0eee8"
+    },
+    "비사관": {
+      "style": "brick",
+      "wall": "#6e4436",
+      "glass": "#2e3236",
+      "frame": "#e0dcd2"
+    },
+    "대명동산관, 연구소": {
+      "style": "brick",
+      "wall": "#7f5048",
+      "glass": "#2e3436",
+      "frame": "#d8d2ca"
+    },
+    "수산관": {
+      "style": "brick",
+      "wall": "#8a5a48",
+      "glass": "#2e3438",
+      "frame": "#e8e6e2"
+    },
+    "동서문화관": {
+      "style": "brick",
+      "wall": "#8a5848",
+      "glass": "#2e3438",
+      "frame": "#ebe8e2"
+    },
+    "대명쉐턱관": {
+      "style": "brick",
+      "wall": "#8a6248",
+      "glass": "#2e3438",
+      "frame": "#ece9e0",
+      "hip": true,
+      "roof": "#3a3e3f"
+    },
+    "제2음악관": {
+      "style": "stone",
+      "wall": "#e2dccb",
+      "glass": "#3a4248",
+      "frame": "#c7a26a"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
